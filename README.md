@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harshitt13
 - 👀 I’m interested in gaming, & anime.
-- 🌱 I’m currently learning Full Stack Development, AI & ML, & Neural Networking.
+- 🌱 I’m currently learning AI & ML, & Neural Networking.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me find.harshitkushwaha@gmail.com.
 - 😄 Pronouns: he/him.
