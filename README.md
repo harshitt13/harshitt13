@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @harshitt13
-- 👀 I’m interested in gaming, & anime.
-- 🌱 I’m currently learning AI & ML, & Neural Networking.
+- 👋 Hi, I’m a passionate AI/ML Engineer with expertise in developing, training, and deploying machine learning models. Skilled in deep learning, data analysis, and leveraging AI for innovative solutions. Adept at turning complex problems into actionable insights to drive business value.
+- 👀 I’m interested in tech, OpenCV, Computer vision, Deep Neural Networking, Artificial Intelligence, Machine learning, Nvidia Cuda, Gaming, and Nature Photography.
+- 🌱 I’m currently learning Artificial intelligence, Machine learning, & Neural Networking.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me find.harshitkushwaha@gmail.com.
 - 😄 Pronouns: he/him.
