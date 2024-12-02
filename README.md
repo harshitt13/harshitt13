@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **find.harshitkushwaha@gmail.com .**
 
+- 👯 I’m looking to collaborate on [Chatbot_with_Sentimental_Analysis](https://github.com/harshitt13/Chatbot_with_Sentimental_Analysis) .
+
 - 📄 Know about my experiences [Harshit Kushwaha's Resume](https://1drv.ms/w/s!An1qN6aLBOCHhYx8drGUNKpLLTNOEQ?e=hOJRKI) .
 
 - ⚡ Fun fact **dead ^___^.**
