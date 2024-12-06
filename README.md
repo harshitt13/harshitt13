@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Harshit Kushwaha</h1>
 
 <div align="center">
 
