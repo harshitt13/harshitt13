@@ -1,9 +1,9 @@
+<h1 align="center">Hi 👋, I'm Harshit Kushwaha</h1>
 
 <div align="center">
 
 <!--     <h1>Hi 👋, I'm Harshit Kushwaha</h1> -->
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&weight=700&size=25&pause=1000&color=19F805F7&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Harshit+Kushwaha)](https://git.io/typing-svg) -->
-<!--     <img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" left="20px"> -->
 
 </div>
 
