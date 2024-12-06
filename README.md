@@ -1,12 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshit Kushwaha</h1>
 
-<div align="center">
-
-<!--     <h1>Hi 👋, I'm Harshit Kushwaha</h1> -->
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&weight=700&size=25&pause=1000&color=19F805F7&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Harshit+Kushwaha)](https://git.io/typing-svg) -->
-
-</div>
-
 <h3 align="center">A passionate ML/AI Engineer with expertise in developing, training, and deploying machine learning models. Skilled in deep learning, data analysis, and leveraging AI for innovative solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitt13&label=Profile%20views&color=8978de&style=flat" alt="harshitt13" /> </p>
