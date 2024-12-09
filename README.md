@@ -6,6 +6,8 @@
 
 ![Last Seen](https://img.shields.io/badge/Last%20Seen-Today-brightgreen)
 
+Last Seen: `...`
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitt13" alt="harshitt13" /></a> </p>
 
 - 🔭 I’m currently working on [Stock_Market_Prediction_Model](https://github.com/harshitt13/Stock-Market-Prediction-Model) .
