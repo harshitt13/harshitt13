@@ -1,0 +1,26 @@
+name: Update Last Seen
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Update Last Seen in README
+        run: |
+          # Format the current date as "9 Dec"
+          LAST_SEEN=$(date +"%d %b")
+          # Update the README file
+          sed -i "s|Last Seen: .*|Last Seen: $LAST_SEEN|g" README.md
+
+      - name: Commit changes
+        run: |
+          git config --local user.name "github-actions"
+          git config --local user.email "actions@github.com"
+          git commit -am "Update Last Seen date"
+          git push
