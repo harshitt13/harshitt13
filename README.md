@@ -25,10 +25,20 @@
 
 - ⚡ Fun fact **dead ^___^.**
 
-<div align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif">
-  <br><br>
-</div>
+<table>
+    <tr>
+        <!-- Spotify embed on the left side -->
+        <td width="50%">
+            <a href="https://www.last.fm/user/harshitt13" target="_blank">
+                <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lseyt6wwfpjknaxpqvx3fnywyi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Now Playing">
+            </a>
+        </td>
+        <!-- GIF on the right side -->
+        <td width="50%" align="right">
+            <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" alt="Cool GIF">
+        </td>
+    </tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
