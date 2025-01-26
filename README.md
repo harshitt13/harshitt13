@@ -11,24 +11,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitt13" alt="harshitt13" /></a> </p>
 
-- 🔭 I’m currently working on [Customer Segmentation](https://github.com/harshitt13/Customer-Segmentation-using-K-Means-Clustering)
-
-- 🌱 I’m currently learning **ML, Deep Learning, & Computer Vision.**
-
-- 😄 Pronouns **he/him.**
-
-- 📫 How to reach me **find.harshitkushwaha@gmail.com .**
-
-- 👯 I’m looking to collaborate on [Chatbot_with_Sentimental_Analysis](https://github.com/harshitt13/Chatbot_with_Sentimental_Analysis) .
-
-- 📄 Know about my experiences [Harshit Kushwaha's Resume](https://1drv.ms/w/s!An1qN6aLBOCHhYx8drGUNKpLLTNOEQ?e=hOJRKI) .
-
-- ⚡ Fun fact **dead ^___^.**
-
-<div align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif">
-  <br><br>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    - 🔭 I’m currently working on [Customer Segmentation](https://github.com/harshitt13/Customer-Segmentation-using-K-Means-Clustering)<br>
+    - 🌱 I’m currently learning **ML, Deep Learning, & Computer Vision.**<br>
+    - 😄 Pronouns **he/him.**<br>
+    - 📫 How to reach me **find.harshitkushwaha@gmail.com .**<br>
+    - 👯 I’m looking to collaborate on [Chatbot_with_Sentimental_Analysis](https://github.com/harshitt13/Chatbot_with_Sentimental_Analysis) .<br>
+    - 📄 Know about my experiences [Harshit Kushwaha's Resume](https://1drv.ms/w/s!An1qN6aLBOCHhYx8drGUNKpLLTNOEQ?e=hOJRKI) .<br>
+    - ⚡ Fun fact **dead ^___^.**
+  </div>
+  <div>
+    <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="400">
+  </div>
 </div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
