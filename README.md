@@ -68,3 +68,8 @@
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshitt13&show_icons=true&theme=dark&locale=en) | ![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshitt13&theme=dark) |
 |-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+
+<br>
+<center>
+    <img align="center" alt="snek" src="https://github.com/harshitt13/harshitt13/blob/output/github-contribution-grid-snake-dark.svg" />
+</center>
