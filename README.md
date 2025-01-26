@@ -2,7 +2,9 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b">
 </div>
 <br><br>
-<p align="cneter"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitt13" alt="harshitt13" /></a> </p>
+<div align="center">
+<p"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitt13&theme=onedark" alt="harshitt13" /></a> </p>
+</div>
 
 <h1 align="center">Hi 👋, I'm Harshit Kushwaha</h1>
 
@@ -25,20 +27,22 @@
 
 - ⚡ Fun fact **dead ^___^.**
 
-<table>
-    <tr>
-        <!-- Spotify embed on the left side -->
-        <td width="50%">
-            <a href="https://www.last.fm/user/harshitt13" target="_blank">
-                <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lseyt6wwfpjknaxpqvx3fnywyi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false" alt="Spotify Now Playing">
-            </a>
-        </td>
-        <!-- GIF on the right side -->
-        <td width="50%" align="right">
-            <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" alt="Cool GIF">
-        </td>
-    </tr>
-</table>
+<div align="center">
+    <table width="100%">
+        <tr>
+            <!-- Spotify embed on the left side -->
+            <td width="50%" align="left">
+                <a href="https://www.last.fm/user/harshitt13" target="_blank">
+                    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lseyt6wwfpjknaxpqvx3fnywyi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Now Playing">
+                </a>
+            </td>
+            <!-- GIF on the right side -->
+            <td width="50%" align="right">
+                <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" alt="Cool GIF">
+            </td>
+        </tr>
+    </table>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
