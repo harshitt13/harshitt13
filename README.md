@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitt13" alt="harshitt13" /></a> </p>
 
-- 🔭 I’m currently working on ......
+- 🔭 I’m currently working on [Customer Segmentation](https://github.com/harshitt13/Customer-Segmentation-using-K-Means-Clustering)
 
 - 🌱 I’m currently learning **ML, Deep Learning, & Computer Vision.**
 
@@ -24,6 +24,11 @@
 - 📄 Know about my experiences [Harshit Kushwaha's Resume](https://1drv.ms/w/s!An1qN6aLBOCHhYx8drGUNKpLLTNOEQ?e=hOJRKI) .
 
 - ⚡ Fun fact **dead ^___^.**
+
+<div align="right">
+  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif">
+  <br><br>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
