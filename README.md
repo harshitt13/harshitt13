@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harshit Kushwaha</h1>
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
+<br><br>
+
 <h3 align="center">A passionate ML/AI Engineer with expertise in developing, training, and deploying machine learning models. Skilled in deep learning, data analysis, and leveraging AI for innovative solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitt13&label=Profile%20views&color=8978de&style=flat" alt="harshitt13" /> </p>
