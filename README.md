@@ -62,12 +62,9 @@
   </a>
 </div>
 
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitt13&show_icons=true&theme=dark&locale=en&layout=compact" alt="Most Used Languages" />
-</p>
-
+| ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=harshitt13&show_icons=true&theme=dark&locale=en&layout=compact) | ![WakaTime Stats](https://wakatime.com/share/@harshitt_13/52a9cc65-5d21-4c59-967d-d2256f9812a5.svg) |
+|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshitt13&show_icons=true&theme=dark&locale=en) | ![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshitt13&theme=dark) |
-|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 
 <br>
 <center>
