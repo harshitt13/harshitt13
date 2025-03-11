@@ -13,15 +13,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitt13&label=Profile%20views&color=8978de&style=flat" alt="harshitt13" /> </p>
 
 
-- 🔭 I’m currently working on [Customer Segmentation](https://github.com/harshitt13/Customer-Segmentation-using-K-Means-Clustering)
-
-- 🌱 I’m currently learning **ML, Deep Learning, & Computer Vision.**
+- 🌱 I’m currently learning **ML, DL, WebDev, & Computer Vision.**
 
 - 😄 Pronouns **he/him.**
 
 - 📫 How to reach me **find.harshitkushwaha@gmail.com .**
-
-- 👯 I’m looking to collaborate on [Chatbot_with_Sentimental_Analysis](https://github.com/harshitt13/Chatbot_with_Sentimental_Analysis) .
 
 - 📄 Know about my experiences [Harshit Kushwaha's Resume](https://1drv.ms/w/s!An1qN6aLBOCHhYx8drGUNKpLLTNOEQ?e=hOJRKI) .
 
