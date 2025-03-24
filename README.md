@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **find.harshitkushwaha@gmail.com .**
 
-- 📄 Know about my experiences [Harshit Kushwaha's Resume](https://1drv.ms/w/s!An1qN6aLBOCHhYx8drGUNKpLLTNOEQ?e=hOJRKI) .
+- 📄 Know about my experiences [Harshit Kushwaha's LinkedIn](https://www.linkedin.com/in/harshitt13/) .
 
 - ⚡ Fun fact **dead ^___^.**
 
