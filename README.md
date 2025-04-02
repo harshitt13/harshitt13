@@ -8,18 +8,16 @@
 
 <h1 align="center">Hi 👋, I'm Harshit Kushwaha</h1>
 
-<h3 align="center">A passionate ML/AI Engineer with expertise in developing, training, and deploying machine learning models. Skilled in deep learning, data analysis, and leveraging AI for innovative solutions.</h3>
+<h3 align="center">A Software Developer with expertise in developing, training, and deploying machine learning models. Skilled in deep learning, data analysis, and leveraging AI for innovative solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitt13&label=Profile%20views&color=8978de&style=flat" alt="harshitt13" /> </p>
 
 
-- 🌱 I’m currently learning **ML, DL, WebDev, & Computer Vision.**
+- 🌱 I’m currently learning **ML, WebDev, & Computer Vision.**
 
 - 😄 Pronouns **he/him.**
 
 - 📫 How to reach me **find.harshitkushwaha@gmail.com .**
-
-- 📄 Know about my experiences [Harshit Kushwaha's LinkedIn](https://www.linkedin.com/in/harshitt13/) .
 
 - ⚡ Fun fact **dead ^___^.**
 
