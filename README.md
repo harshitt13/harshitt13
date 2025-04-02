@@ -13,13 +13,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitt13&label=Profile%20views&color=8978de&style=flat" alt="harshitt13" /> </p>
 
 
-- 🌱 I’m currently learning **ML, WebDev, & Computer Vision.**
-
-- 😄 Pronouns **he/him.**
-
-- 📫 How to reach me **find.harshitkushwaha@gmail.com .**
-
-- ⚡ Fun fact **dead ^___^.**
+- an average cs student trying to stay alive.
+- i have experience in aiml.
+- enjoy video games, sketching, and photography.
+- fun fact **dead ^___^**.
 
 <div align="center">
     <table width="100%">
