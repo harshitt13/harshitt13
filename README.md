@@ -14,9 +14,7 @@
 
 
 - an average cs student trying to stay alive.
-- a product developed by the indian education system.
-- i have experience in aiml.
-- enjoy video games, sketching, and photography.
+- i do video games, sketching, and photography.
 - fun fact **dead ^___^**.
 
 <div align="center">
