@@ -121,6 +121,8 @@
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/> </a> 
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/> </a> 
   <a href="https://clipclamp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/clipclamp/clipclamp-icon.svg" alt="clipclamp" width="40" height="40"/> </a> 
+  <a href="https://obsproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/obs/obs-original.svg" alt="obs" width="40" height="40"/> </a> 
+  <a href="https://ultimaker.com/software/ultimaker-cura" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ultimaker_cura/ultimaker_cura-icon.svg" alt="ultimaker-cura" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="left">AI & Automation:</h3>
@@ -133,6 +135,7 @@
   <a href="https://openclaw.io/" target="_blank" rel="noreferrer"> <img src="https://openclaw.io/favicon.ico" alt="openclaw" width="40" height="40"/> </a> 
   <a href="https://openai.com/blog/openai-codex" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="codex" width="40" height="40"/> </a> 
   <a href="https://ollama.ai/" target="_blank" rel="noreferrer"> <img src="https://ollama.ai/public/ollama.png" alt="ollama" width="40" height="40"/> </a> 
+  <a href="https://cursor.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/cursor/cursor-icon.svg" alt="cursor" width="40" height="40"/> </a> 
 </p>
 
 <div align="right">
