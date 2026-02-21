@@ -3,7 +3,7 @@
 </div>
 <br><br>
 <div align="center">
-<p"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitt13&theme=onedark" alt="harshitt13" /></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitt13&theme=onedark&no-frame=true&row=1" alt="harshitt13" /></a> </p>
 </div>
 
 <h1 align="center">Hi 👋, I'm Harshit Kushwaha</h1>
