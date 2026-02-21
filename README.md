@@ -34,14 +34,6 @@
     </table>
 </div>
 
-<h3 align="left">Connect with me:</h3>
-  <p>
-    <a href="https://twitter.com/harshittt_13"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-    <a href="https://linkedin.com/in/harshitt13"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://instagram.com/harshitt.13"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-    <a href="https://linktr.ee/harshitt13"><img src="https://img.shields.io/badge/Linktree-%2339E09B.svg?style=for-the-badge&logo=linktree&logoColor=white"/></a>
-  </p>
-
 <h3 align="left">Programming Languages:</h3>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
