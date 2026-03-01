@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitt13&label=Profile%20views&color=8978de&style=flat" alt="harshitt13" /> </p>
 
 <div align="center">
-    <table width="100%">
+    <table width="100%" style="table-layout: auto;">
         <tr>
             <!-- Row 1: Bio on the left side -->
             <td width="50%" align="left" valign="top">
@@ -31,11 +31,6 @@
                 <!-- <img src="public/badge/unnamed.png" alt="Badge" width="175px" /> -->
             </td>
         </tr>
-    </table>
-</div>
-
-<div align="center">
-    <table width="100%">
         <tr>
             <!-- Spotify embed on the left side -->
             <td width="50%" align="left" valign="top">
@@ -54,10 +49,10 @@
 <div align="center">
     <table width="100%">
         <tr>
-            <td width="50%" align="left" valign="top">
+            <td align="left" valign="top" style="white-space: nowrap; width: 1%; padding-right: 14px;">
                 <h3 align="left">Programming Languages:</h3>
             </td>
-            <td width="50%" align="left" valign="top">
+            <td align="left" valign="top" style="width: auto;">
                 <p align="left"> 
                   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
                   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -72,10 +67,10 @@
             </td>
         </tr>
         <tr>
-            <td width="50%" align="left" valign="top">
+            <td align="left" valign="top" style="white-space: nowrap; width: 1%; padding-right: 14px;">
                 <h3 align="left">Hardware & Prototyping:</h3>
             </td>
-            <td width="50%" align="left" valign="top">
+            <td align="left" valign="top" style="width: auto;">
                 <p align="left"> 
                   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> </a>
                   <a href="https://fritzing.org/" target="_blank" rel="noreferrer"> <img src="public/icons/fritzing.png" alt="fritzing" width="40" height="40"/> </a> 
@@ -86,10 +81,10 @@
             </td>
         </tr>
         <tr>
-            <td width="50%" align="left" valign="top">
+            <td align="left" valign="top" style="white-space: nowrap; width: 1%; padding-right: 14px;">
                 <h3 align="left">Machine Learning & Data Science:</h3>
             </td>
-            <td width="50%" align="left" valign="top">
+            <td align="left" valign="top" style="width: auto;">
                 <p align="left"> 
                   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a> 
                   <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a> 
@@ -105,10 +100,10 @@
             </td>
         </tr>
         <tr>
-            <td width="50%" align="left" valign="top">
+            <td align="left" valign="top" style="white-space: nowrap; width: 1%; padding-right: 14px;">
                 <h3 align="left">Web Development Frameworks:</h3>
             </td>
-            <td width="50%" align="left" valign="top">
+            <td align="left" valign="top" style="width: auto;">
                 <p align="left"> 
                   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
                   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a> 
@@ -118,10 +113,10 @@
             </td>
         </tr>
         <tr>
-            <td width="50%" align="left" valign="top">
+            <td align="left" valign="top" style="white-space: nowrap; width: 1%; padding-right: 14px;">
                 <h3 align="left">Databases:</h3>
             </td>
-            <td width="50%" align="left" valign="top">
+            <td align="left" valign="top" style="width: auto;">
                 <p align="left"> 
                   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a> 
                   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
@@ -135,10 +130,10 @@
             </td>
         </tr>
         <tr>
-            <td width="50%" align="left" valign="top">
+            <td align="left" valign="top" style="white-space: nowrap; width: 1%; padding-right: 14px;">
                 <h3 align="left">DevOps & Environments:</h3>
             </td>
-            <td width="50%" align="left" valign="top">
+            <td align="left" valign="top" style="width: auto;">
                 <p align="left"> 
                   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a> 
                   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> 
@@ -149,10 +144,10 @@
             </td>
         </tr>
         <tr>
-            <td width="50%" align="left" valign="top">
+            <td align="left" valign="top" style="white-space: nowrap; width: 1%; padding-right: 14px;">
                 <h3 align="left">Cloud & Hosting Platforms:</h3>
             </td>
-            <td width="50%" align="left" valign="top">
+            <td align="left" valign="top" style="width: auto;">
                 <p align="left"> 
                   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="public/icons/aws.png" alt="aws" width="40" height="40"/> </a> 
                   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/> </a> 
@@ -167,10 +162,10 @@
             </td>
         </tr>
         <tr>
-            <td width="50%" align="left" valign="top">
+            <td align="left" valign="top" style="white-space: nowrap; width: 1%; padding-right: 14px;">
                 <h3 align="left">Testing & APIs:</h3>
             </td>
-            <td width="50%" align="left" valign="top">
+            <td align="left" valign="top" style="width: auto;">
                 <p align="left"> 
                   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/> </a> 
                   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="fastapi" width="40" height="40"/> </a> 
@@ -179,10 +174,10 @@
             </td>
         </tr>
         <tr>
-            <td width="50%" align="left" valign="top">
+            <td align="left" valign="top" style="white-space: nowrap; width: 1%; padding-right: 14px;">
                 <h3 align="left">Design & Creativity:</h3>
             </td>
-            <td width="50%" align="left" valign="top">
+            <td align="left" valign="top" style="width: auto;">
                 <p align="left"> 
                   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a> 
                   <a href="https://affinity.serif.com/en-us/" target="_blank" rel="noreferrer"> <img src="public/icons/affinity.png" alt="affinity" width="40" height="40"/> </a> 
@@ -194,10 +189,10 @@
             </td>
         </tr>
         <tr>
-            <td width="50%" align="left" valign="top">
+            <td align="left" valign="top" style="white-space: nowrap; width: 1%; padding-right: 14px;">
                 <h3 align="left">AI & LLMs:</h3>
             </td>
-            <td width="50%" align="left" valign="top">
+            <td align="left" valign="top" style="width: auto;">
                 <p align="left"> 
                   <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer"> <img src="public/icons/Copilot.png" alt="copilot" width="40" height="40"/> </a> 
                   <a href="https://www.anthropic.com/" target="_blank" rel="noreferrer"> <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/anthropic.png" alt="anthropic" width="40" height="40"/> </a> 
@@ -213,10 +208,10 @@
             </td>
         </tr>
         <tr>
-            <td width="50%" align="left" valign="top">
+            <td align="left" valign="top" style="white-space: nowrap; width: 1%; padding-right: 14px;">
                 <h3 align="left">Configuration & Data Formats:</h3>
             </td>
-            <td width="50%" align="left" valign="top">
+            <td align="left" valign="top" style="width: auto;">
                 <p align="left"> 
                   <a href="https://yaml.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/yaml/yaml-icon.svg" alt="yaml" width="40" height="40"/> </a> 
                   <a href="https://www.json.org/" target="_blank" rel="noreferrer"> <img src="public/icons/json.png" alt="json" width="40" height="40"/> </a> 
