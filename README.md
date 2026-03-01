@@ -10,18 +10,27 @@
 
 <h3 align="center">A Software Developer with expertise in developing, training, and deploying machine learning models. Skilled in deep learning, data analysis, and leveraging AI for innovative solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitt13&label=Profile%20views&color=8978de&style=flat" alt="harshitt13" /> </p>
-
-
-- an average cs student trying to stay alive.
-- i do video games, sketching, and photography.
-- fun fact **dead ^___^**.
-
 <div align="center">
-  <a href="https://cloud.layer5.io/user/5cadac16-5268-4ad4-8cac-11491a6b284d?tab=badges&badge=certified-meshery-contributor" alt="Certified Meshery Contributor">
-    <img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png" alt="Certified Meshery Contributor" />
-  </a>
-  <img src="public/badge/unnamed.png" alt="Badge" width="175px" />
+    <table width="100%">
+        <tr>
+            <!-- Profile view and bio on the left side -->
+            <td width="50%" align="left" valign="top">
+                <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitt13&label=Profile%20views&color=8978de&style=flat" alt="harshitt13" /> </p>
+                <p align="left">
+                - an average cs student trying to stay alive.<br>
+                - i do video games, sketching, and photography.<br>
+                - fun fact **dead ^___^**.<br>
+                </p>
+            </td>
+            <!-- Badges on the right side in same row -->
+            <td width="50%" align="center" valign="top">
+                <a href="https://cloud.layer5.io/user/5cadac16-5268-4ad4-8cac-11491a6b284d?tab=badges&badge=certified-meshery-contributor" alt="Certified Meshery Contributor">
+                    <img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png" alt="Certified Meshery Contributor" />
+                </a>
+                <img src="public/badge/unnamed.png" alt="Badge" width="175px" />
+            </td>
+        </tr>
+    </table>
 </div>
 
 <div align="center">
@@ -49,6 +58,7 @@
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a> 
 </p>
@@ -56,9 +66,9 @@
 <h3 align="left">Hardware & Prototyping:</h3>
 <p align="left"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> </a>
-  <a href="https://fritzing.org/" target="_blank" rel="noreferrer"> <img src="https://fritzing.org/static/3rdparty/fritzing-logo.png" alt="fritzing" width="40" height="40"/> </a> 
-  <a href="https://www.kicad.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kicad/kicad-icon.svg" alt="kicad" width="40" height="40"/> </a> 
-  <a href="https://easyeda.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/easyeda/easyeda-icon.svg" alt="easyeda" width="40" height="40"/> </a> 
+  <a href="https://fritzing.org/" target="_blank" rel="noreferrer"> <img src="public/icons/fritzing.png" alt="fritzing" width="40" height="40"/> </a> 
+  <a href="https://www.kicad.org/" target="_blank" rel="noreferrer"> <img src="public/icons/kicad.png" alt="kicad" width="60" height="40"/> </a>
+  <a href="https://easyeda.com/" target="_blank" rel="noreferrer"> <img src="public/icons/easyeda.png" alt="easyeda" width="55" height="40"/> </a>
 </p>
 
 <h3 align="left">Machine Learning & Data Science:</h3>
@@ -98,20 +108,20 @@
 <p align="left"> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> 
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/githubactions/githubactions-icon.svg" alt="github-actions" width="40" height="40"/> </a> 
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="public/icons/git actions.png" alt="github-actions" width="40" height="40"/> </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> 
   <a href="https://docs.microsoft.com/en-us/windows/wsl/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="wsl" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="left">Cloud & Hosting Platforms:</h3>
 <p align="left"> 
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/> </a> 
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="public/icons/aws.png" alt="aws" width="40" height="40"/> </a> 
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/> </a> 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="firebase" width="40" height="40"/> </a> 
   <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/> </a> 
   <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" alt="netlify" width="40" height="40"/> </a> 
-  <a href="https://render.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/301692/render.svg" alt="render" width="40" height="40"/> </a> 
-  <a href="https://www.hostinger.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hostinger/hostinger-icon.svg" alt="hostinger" width="40" height="40"/> </a> 
+  <a href="https://render.com/" target="_blank" rel="noreferrer"> <img src="public/icons/render.png" alt="render" width="40" height="40"/> </a>
+  <a href="https://www.hostinger.com/" target="_blank" rel="noreferrer"> <img src="public/icons/hostinger.png" alt="hostinger" width="40" height="40"/> </a>
   <a href="https://wordpress.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/> </a> 
   <a href="https://search.google.com/search-console" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="google-search-console" width="40" height="40"/> </a> 
 </p>
@@ -125,12 +135,12 @@
 <h3 align="left">Design & Creativity:</h3>
 <p align="left"> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://affinity.serif.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/affinity/affinity-icon.svg" alt="affinity" width="40" height="40"/> </a> 
+  <a href="https://affinity.serif.com/en-us/" target="_blank" rel="noreferrer"> <img src="public/icons/affinity.png" alt="affinity" width="40" height="40"/> </a> 
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/> </a> 
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/> </a> 
-  <a href="https://clipclamp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/clipclamp/clipclamp-icon.svg" alt="clipclamp" width="40" height="40"/> </a> 
-  <a href="https://obsproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/obs/obs-original.svg" alt="obs" width="40" height="40"/> </a> 
-  <a href="https://ultimaker.com/software/ultimaker-cura" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ultimaker_cura/ultimaker_cura-icon.svg" alt="ultimaker-cura" width="40" height="40"/> </a> 
+  <a href="https://clipclamp.com/" target="_blank" rel="noreferrer"> <img src="public/icons/clipclamp.png" alt="clipclamp" width="40" height="40"/> </a> 
+  <a href="https://obsproject.com/" target="_blank" rel="noreferrer"> <img src="public/icons/OBS.png" alt="obs" width="40" height="40"/> </a> 
+  <a href="https://ultimaker.com/software/ultimaker-cura" target="_blank" rel="noreferrer"> <img src="public/icons/cura.png" alt="ultimaker-cura" width="65" height="40"/> </a> 
 </p>
 
 <h3 align="left">AI & Automation:</h3>
@@ -152,7 +162,7 @@
 <h3 align="left">Configuration & Data Formats:</h3>
 <p align="left"> 
   <a href="https://yaml.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/yaml/yaml-icon.svg" alt="yaml" width="40" height="40"/> </a> 
-  <a href="https://www.json.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/136445/json.svg" alt="json" width="40" height="40"/> </a> 
+  <a href="https://www.json.org/" target="_blank" rel="noreferrer"> <img src="public/icons/json.png" alt="json" width="40" height="40"/> </a> 
   <a href="https://www.xml.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/136/136526.png" alt="xml" width="40" height="40"/> </a> 
 </p>
 
