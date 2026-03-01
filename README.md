@@ -31,14 +31,19 @@
                 <!-- <img src="public/badge/unnamed.png" alt="Badge" width="175px" /> -->
             </td>
         </tr>
+    </table>
+</div>
+
+<div align="center">
+    <table width="100%">
         <tr>
-            <!-- Row 2: Spotify embed on the left side -->
+            <!-- Spotify embed on the left side -->
             <td width="50%" align="left" valign="top">
                 <a href="https://www.last.fm/user/harshitt13" target="_blank">
                     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lseyt6wwfpjknaxpqvx3fnywyi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false" alt="Spotify Now Playing">
                 </a>
             </td>
-            <!-- Row 2: GIF on the right side -->
+            <!-- GIF on the right side -->
             <td width="50%" align="center" valign="middle">
                 <img src="public/GIF/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" alt="Cool GIF">
             </td>
@@ -220,12 +225,6 @@
             </td>
         </tr>
     </table>
-</div>
-
-<div align="right">
-  <a href="https://ko-fi.com/harshitkushwaha">
-      <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Buy me a coffee" />
-  </a>
 </div>
 
 | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=harshitt13&show_icons=true&theme=dark&locale=en&layout=compact) | ![WakaTime Stats](https://wakatime.com/share/@harshitt_13/2667fb96-2035-423c-8452-40f947c9070f.svg) |
