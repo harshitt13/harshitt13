@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b">
+  <img src="public/GIF/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif">
 </div>
 <br><br>
 <div align="center">
@@ -18,6 +18,13 @@
 - fun fact **dead ^___^**.
 
 <div align="center">
+  <a href="https://cloud.layer5.io/user/5cadac16-5268-4ad4-8cac-11491a6b284d?tab=badges&badge=certified-meshery-contributor" alt="Certified Meshery Contributor">
+    <img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png" alt="Certified Meshery Contributor" />
+  </a>
+  <img src="public/badge/unnamed.png" alt="Badge" width="175px" />
+</div>
+
+<div align="center">
     <table width="100%">
         <tr>
             <!-- Spotify embed on the left side -->
@@ -28,7 +35,7 @@
             </td>
             <!-- GIF on the right side -->
             <td width="50%" align="right">
-                <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" alt="Cool GIF">
+                <img src="public/GIF/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" alt="Cool GIF">
             </td>
         </tr>
     </table>
@@ -49,6 +56,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a> 
 </p>
@@ -67,7 +75,11 @@
   <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a> 
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> </a> 
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/> </a> 
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> </a> 
+  <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" alt="plotly" width="40" height="40"/> </a> 
+  <a href="https://mlflow.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/> </a> 
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 </p>
 
@@ -81,7 +93,10 @@
 
 <h3 align="left">Databases:</h3>
 <p align="left"> 
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/> </a> 
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="sqlserver" width="40" height="40"/> </a> 
   <a href="https://neo4j.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" alt="neo4j" width="40" height="40"/> </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40"/> </a> 
@@ -91,6 +106,7 @@
 <p align="left"> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> 
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/githubactions/githubactions-icon.svg" alt="github-actions" width="40" height="40"/> </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> 
   <a href="https://docs.microsoft.com/en-us/windows/wsl/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="wsl" width="40" height="40"/> </a> 
 </p>
@@ -128,7 +144,10 @@
 <h3 align="left">AI & Automation:</h3>
 <p align="left"> 
   <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/GitHub_Copilot_logo.svg" alt="copilot" width="40" height="40"/> </a> 
+  <a href="https://www.anthropic.com/" target="_blank" rel="noreferrer"> <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/anthropic.png" alt="anthropic" width="40" height="40"/> </a> 
   <a href="https://claude.ai/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Claude_icon.svg/1200px-Claude_icon.svg.png" alt="claude" width="40" height="40"/> </a> 
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" alt="langchain" width="40" height="40"/> </a> 
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/huggingface/huggingface-original.svg" alt="huggingface" width="40" height="40"/> </a> 
   <a href="https://aistudio.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="google-ai" width="40" height="40"/> </a> 
   <a href="https://github.com/google/thefuckingcode" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="google-antigravity" width="40" height="40"/> </a> 
   <a href="https://www.coderabbit.ai/" target="_blank" rel="noreferrer"> <img src="https://www.coderabbit.ai/favicon.ico" alt="code-rabbit" width="40" height="40"/> </a> 
@@ -136,6 +155,13 @@
   <a href="https://openai.com/blog/openai-codex" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="codex" width="40" height="40"/> </a> 
   <a href="https://ollama.ai/" target="_blank" rel="noreferrer"> <img src="https://ollama.ai/public/ollama.png" alt="ollama" width="40" height="40"/> </a> 
   <a href="https://cursor.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/cursor/cursor-icon.svg" alt="cursor" width="40" height="40"/> </a> 
+</p>
+
+<h3 align="left">Configuration & Data Formats:</h3>
+<p align="left"> 
+  <a href="https://yaml.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/yaml/yaml-icon.svg" alt="yaml" width="40" height="40"/> </a> 
+  <a href="https://www.json.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/136445/json.svg" alt="json" width="40" height="40"/> </a> 
+  <a href="https://www.xml.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/136/136526.png" alt="xml" width="40" height="40"/> </a> 
 </p>
 
 <div align="right">
