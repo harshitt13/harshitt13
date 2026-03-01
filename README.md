@@ -10,40 +10,36 @@
 
 <h3 align="center">A Software Developer with expertise in developing, training, and deploying machine learning models. Skilled in deep learning, data analysis, and leveraging AI for innovative solutions.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitt13&label=Profile%20views&color=8978de&style=flat" alt="harshitt13" /> </p>
+
 <div align="center">
     <table width="100%">
         <tr>
-            <!-- Profile view and bio on the left side -->
+            <!-- Row 1: Bio on the left side -->
             <td width="50%" align="left" valign="top">
-                <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitt13&label=Profile%20views&color=8978de&style=flat" alt="harshitt13" /> </p>
                 <p align="left">
                 - an average cs student trying to stay alive.<br>
                 - i do video games, sketching, and photography.<br>
                 - fun fact **dead ^___^**.<br>
                 </p>
             </td>
-            <!-- Badges on the right side in same row -->
-            <td width="50%" align="center" valign="top">
+            <!-- Row 1: Badges on the right side -->
+            <td width="50%" align="center" valign="middle">
                 <a href="https://cloud.layer5.io/user/5cadac16-5268-4ad4-8cac-11491a6b284d?tab=badges&badge=certified-meshery-contributor" alt="Certified Meshery Contributor">
                     <img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png" alt="Certified Meshery Contributor" />
                 </a>
-                <img src="public/badge/unnamed.png" alt="Badge" width="175px" />
+                <!-- <img src="public/badge/unnamed.png" alt="Badge" width="175px" /> -->
             </td>
         </tr>
-    </table>
-</div>
-
-<div align="center">
-    <table width="100%">
         <tr>
-            <!-- Spotify embed on the left side -->
-            <td width="50%" align="left">
+            <!-- Row 2: Spotify embed on the left side -->
+            <td width="50%" align="left" valign="top">
                 <a href="https://www.last.fm/user/harshitt13" target="_blank">
                     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lseyt6wwfpjknaxpqvx3fnywyi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false" alt="Spotify Now Playing">
                 </a>
             </td>
-            <!-- GIF on the right side -->
-            <td width="50%" align="right">
+            <!-- Row 2: GIF on the right side -->
+            <td width="50%" align="center" valign="middle">
                 <img src="public/GIF/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" alt="Cool GIF">
             </td>
         </tr>
@@ -69,6 +65,7 @@
   <a href="https://fritzing.org/" target="_blank" rel="noreferrer"> <img src="public/icons/fritzing.png" alt="fritzing" width="40" height="40"/> </a> 
   <a href="https://www.kicad.org/" target="_blank" rel="noreferrer"> <img src="public/icons/kicad.png" alt="kicad" width="60" height="40"/> </a>
   <a href="https://easyeda.com/" target="_blank" rel="noreferrer"> <img src="public/icons/easyeda.png" alt="easyeda" width="55" height="40"/> </a>
+  <a href="https://ultimaker.com/software/ultimaker-cura" target="_blank" rel="noreferrer"> <img src="public/icons/cura.png" alt="ultimaker-cura" width="65" height="40"/> </a>
 </p>
 
 <h3 align="left">Machine Learning & Data Science:</h3>
@@ -102,6 +99,7 @@
   <a href="https://neo4j.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" alt="neo4j" width="40" height="40"/> </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40"/> </a> 
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="left">DevOps & Environments:</h3>
@@ -130,6 +128,7 @@
 <p align="left"> 
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/> </a> 
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="fastapi" width="40" height="40"/> </a> 
+  <a href="https://www.deque.com/axe/devtools/" target="_blank" rel="noreferrer"> <img src="public\icons\devtools.png" alt="axe-devtools" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="left">Design & Creativity:</h3>
@@ -140,23 +139,22 @@
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/> </a> 
   <a href="https://clipclamp.com/" target="_blank" rel="noreferrer"> <img src="public/icons/clipclamp.png" alt="clipclamp" width="40" height="40"/> </a> 
   <a href="https://obsproject.com/" target="_blank" rel="noreferrer"> <img src="public/icons/OBS.png" alt="obs" width="40" height="40"/> </a> 
-  <a href="https://ultimaker.com/software/ultimaker-cura" target="_blank" rel="noreferrer"> <img src="public/icons/cura.png" alt="ultimaker-cura" width="65" height="40"/> </a> 
 </p>
 
-<h3 align="left">AI & Automation:</h3>
+<h3 align="left">AI & LLMs:</h3>
 <p align="left"> 
-  <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/GitHub_Copilot_logo.svg" alt="copilot" width="40" height="40"/> </a> 
+  <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer"> <img src="public/icons/Copilot.png" alt="copilot" width="40" height="40"/> </a> 
   <a href="https://www.anthropic.com/" target="_blank" rel="noreferrer"> <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/anthropic.png" alt="anthropic" width="40" height="40"/> </a> 
-  <a href="https://claude.ai/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Claude_icon.svg/1200px-Claude_icon.svg.png" alt="claude" width="40" height="40"/> </a> 
+  <!-- <a href="https://claude.ai/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Claude_icon.svg/1200px-Claude_icon.svg.png" alt="claude" width="40" height="40"/> </a>  -->
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" alt="langchain" width="40" height="40"/> </a> 
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/huggingface/huggingface-original.svg" alt="huggingface" width="40" height="40"/> </a> 
-  <a href="https://aistudio.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="google-ai" width="40" height="40"/> </a> 
-  <a href="https://github.com/google/thefuckingcode" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="google-antigravity" width="40" height="40"/> </a> 
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/> </a> 
+  <a href="https://aistudio.google.com/" target="_blank" rel="noreferrer"> <img src="public/icons/googleaistudio.png" alt="google-ai" width="40" height="40"/> </a> 
+  <a href="https://antigravity.google/" target="_blank" rel="noreferrer"> <img src="public/icons/antigravity.png" alt="google-antigravity" width="40" height="40"/> </a> 
   <a href="https://www.coderabbit.ai/" target="_blank" rel="noreferrer"> <img src="https://www.coderabbit.ai/favicon.ico" alt="code-rabbit" width="40" height="40"/> </a> 
-  <a href="https://openclaw.io/" target="_blank" rel="noreferrer"> <img src="https://openclaw.io/favicon.ico" alt="openclaw" width="40" height="40"/> </a> 
-  <a href="https://openai.com/blog/openai-codex" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="codex" width="40" height="40"/> </a> 
+  <!-- <a href="https://openclaw.io/" target="_blank" rel="noreferrer"> <img src="https://openclaw.io/favicon.ico" alt="openclaw" width="40" height="40"/> </a>  -->
+  <a href="https://openai.com/blog/openai-codex" target="_blank" rel="noreferrer"> <img src="public/icons/codex.png" alt="codex" width="40" height="40"/> </a> 
   <a href="https://ollama.ai/" target="_blank" rel="noreferrer"> <img src="https://ollama.ai/public/ollama.png" alt="ollama" width="40" height="40"/> </a> 
-  <a href="https://cursor.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/cursor/cursor-icon.svg" alt="cursor" width="40" height="40"/> </a> 
+  <a href="https://cursor.com/" target="_blank" rel="noreferrer"> <img src="public/icons/cursor.png" alt="cursor" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="left">Configuration & Data Formats:</h3>
