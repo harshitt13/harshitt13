@@ -18,8 +18,8 @@
   <p>
     <ul align="left">
       <li>an average cs student trying to stay alive.</li> 
-      <li>i also do video games, sketching, and photography</li>
-      <li>fun fact **dead ^___^**</li>
+      <li>i also do video games, sketching, and photography.</li>
+      <li>fun fact **dead ^___^**.</li>
     </ul>
   </p>
             </td>
