@@ -3,7 +3,7 @@
 </div>
 <br><br>
 <div align="center">
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitt13&theme=onedark&no-frame=true&row=1" alt="harshitt13" /></a> </p>
+<p> <a href="https://github.com/harshitt13/github-profile-trophy-games-edition"><img src="https://github-profile-trophy-games-edition.vercel.app/?theme=lol" /></a> </p>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitt13&label=Profile%20views&color=8978de&style=flat" alt="harshitt13" /> </p>
