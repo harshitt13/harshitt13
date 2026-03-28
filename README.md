@@ -47,11 +47,6 @@
                 <img src="public/GIF/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" alt="Cool GIF">
             </td>
         </tr>
-    </table>
-</div>
-
-<div align="center">
-    <table width="100%">
         <tr>
             <td align="left" valign="top" style="white-space: nowrap; width: 1%; padding-right: 14px;">
                 <h3 align="left">Programming Languages:</h3>
@@ -223,12 +218,24 @@
                 </p>
             </td>
         </tr>
+        <tr>
+            <td width="50%" align="center" valign="top">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitt13&show_icons=true&theme=dark&locale=en&layout=compact" alt="Most Used Languages" />
+            </td>
+            <td width="50%" align="center" valign="top">
+                <img src="https://wakatime.com/share/@harshitt_13/2667fb96-2035-423c-8452-40f947c9070f.svg" alt="WakaTime Stats" />
+            </td>
+        </tr>
+        <tr>
+            <td width="50%" align="center" valign="top">
+                <img src="https://github-readme-stats.zohan.tech/api?username=harshitt13&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+            </td>
+            <td width="50%" align="center" valign="top">
+                <img src="https://streak-stats.demolab.com/?user=harshitt13&theme=dark" alt="Current Streak" />
+            </td>
+        </tr>
     </table>
 </div>
-
-| ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=harshitt13&show_icons=true&theme=dark&locale=en&layout=compact) | ![WakaTime Stats](https://wakatime.com/share/@harshitt_13/2667fb96-2035-423c-8452-40f947c9070f.svg) |
-|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| ![GitHub Stats](https://github-readme-stats.zohan.tech/api?username=harshitt13&show_icons=true&locale=en&theme=dark) | ![Current Streak](https://streak-stats.demolab.com/?user=harshitt13&theme=dark) |
 
 <br>
 <center>
