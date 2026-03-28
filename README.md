@@ -48,10 +48,10 @@
             </td>
         </tr>
         <tr>
-            <td align="left" valign="top" style="white-space: nowrap; width: 1%; padding-right: 14px;">
+            <td align="left" valign="top" style="white-space: nowrap; width: 35%; padding-right: 14px;">
                 <h3 align="left">Programming Languages:</h3>
             </td>
-            <td align="left" valign="top" style="width: auto;">
+            <td align="left" valign="top" style="width: 65%;">
                 <p align="left"> 
                   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
                   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -66,10 +66,10 @@
             </td>
         </tr>
         <tr>
-            <td align="left" valign="top" style="white-space: nowrap; width: 1%; padding-right: 14px;">
+            <td align="left" valign="top" style="white-space: nowrap; width: 35%; padding-right: 14px;">
                 <h3 align="left">Hardware & Prototyping:</h3>
             </td>
-            <td align="left" valign="top" style="width: auto;">
+            <td align="left" valign="top" style="width: 65%;">
                 <p align="left"> 
                   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> </a>
                   <a href="https://fritzing.org/" target="_blank" rel="noreferrer"> <img src="public/icons/fritzing.png" alt="fritzing" width="40" height="40"/> </a> 
@@ -80,10 +80,10 @@
             </td>
         </tr>
         <tr>
-            <td align="left" valign="top" style="white-space: nowrap; width: 1%; padding-right: 14px;">
+            <td align="left" valign="top" style="white-space: nowrap; width: 35%; padding-right: 14px;">
                 <h3 align="left">Machine Learning & Data Science:</h3>
             </td>
-            <td align="left" valign="top" style="width: auto;">
+            <td align="left" valign="top" style="width: 65%;">
                 <p align="left"> 
                   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a> 
                   <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a> 
@@ -99,10 +99,10 @@
             </td>
         </tr>
         <tr>
-            <td align="left" valign="top" style="white-space: nowrap; width: 1%; padding-right: 14px;">
+            <td align="left" valign="top" style="white-space: nowrap; width: 35%; padding-right: 14px;">
                 <h3 align="left">Web Development Frameworks:</h3>
             </td>
-            <td align="left" valign="top" style="width: auto;">
+            <td align="left" valign="top" style="width: 65%;">
                 <p align="left"> 
                   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
                   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a> 
@@ -112,10 +112,10 @@
             </td>
         </tr>
         <tr>
-            <td align="left" valign="top" style="white-space: nowrap; width: 1%; padding-right: 14px;">
+            <td align="left" valign="top" style="white-space: nowrap; width: 35%; padding-right: 14px;">
                 <h3 align="left">Databases:</h3>
             </td>
-            <td align="left" valign="top" style="width: auto;">
+            <td align="left" valign="top" style="width: 65%;">
                 <p align="left"> 
                   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a> 
                   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
@@ -129,10 +129,10 @@
             </td>
         </tr>
         <tr>
-            <td align="left" valign="top" style="white-space: nowrap; width: 1%; padding-right: 14px;">
+            <td align="left" valign="top" style="white-space: nowrap; width: 35%; padding-right: 14px;">
                 <h3 align="left">DevOps & Environments:</h3>
             </td>
-            <td align="left" valign="top" style="width: auto;">
+            <td align="left" valign="top" style="width: 65%;">
                 <p align="left"> 
                   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a> 
                   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> 
@@ -143,10 +143,10 @@
             </td>
         </tr>
         <tr>
-            <td align="left" valign="top" style="white-space: nowrap; width: 1%; padding-right: 14px;">
+            <td align="left" valign="top" style="white-space: nowrap; width: 35%; padding-right: 14px;">
                 <h3 align="left">Cloud & Hosting Platforms:</h3>
             </td>
-            <td align="left" valign="top" style="width: auto;">
+            <td align="left" valign="top" style="width: 65%;">
                 <p align="left"> 
                   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="public/icons/aws.png" alt="aws" width="40" height="40"/> </a> 
                   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/> </a> 
@@ -161,10 +161,10 @@
             </td>
         </tr>
         <tr>
-            <td align="left" valign="top" style="white-space: nowrap; width: 1%; padding-right: 14px;">
+            <td align="left" valign="top" style="white-space: nowrap; width: 35%; padding-right: 14px;">
                 <h3 align="left">Testing & APIs:</h3>
             </td>
-            <td align="left" valign="top" style="width: auto;">
+            <td align="left" valign="top" style="width: 65%;">
                 <p align="left"> 
                   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/> </a> 
                   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="fastapi" width="40" height="40"/> </a> 
@@ -173,10 +173,10 @@
             </td>
         </tr>
         <tr>
-            <td align="left" valign="top" style="white-space: nowrap; width: 1%; padding-right: 14px;">
+            <td align="left" valign="top" style="white-space: nowrap; width: 35%; padding-right: 14px;">
                 <h3 align="left">Design & Creativity:</h3>
             </td>
-            <td align="left" valign="top" style="width: auto;">
+            <td align="left" valign="top" style="width: 65%;">
                 <p align="left"> 
                   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a> 
                   <a href="https://affinity.serif.com/en-us/" target="_blank" rel="noreferrer"> <img src="public/icons/affinity.png" alt="affinity" width="40" height="40"/> </a> 
@@ -188,10 +188,10 @@
             </td>
         </tr>
         <tr>
-            <td align="left" valign="top" style="white-space: nowrap; width: 1%; padding-right: 14px;">
+            <td align="left" valign="top" style="white-space: nowrap; width: 35%; padding-right: 14px;">
                 <h3 align="left">AI & LLMs:</h3>
             </td>
-            <td align="left" valign="top" style="width: auto;">
+            <td align="left" valign="top" style="width: 65%;">
                 <p align="left"> 
                   <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer"> <img src="public/icons/Copilot.png" alt="copilot" width="40" height="40"/> </a> 
                   <a href="https://www.anthropic.com/" target="_blank" rel="noreferrer"> <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/anthropic.png" alt="anthropic" width="40" height="40"/> </a> 
@@ -207,10 +207,10 @@
             </td>
         </tr>
         <tr>
-            <td align="left" valign="top" style="white-space: nowrap; width: 1%; padding-right: 14px;">
+            <td align="left" valign="top" style="white-space: nowrap; width: 35%; padding-right: 14px;">
                 <h3 align="left">Configuration & Data Formats:</h3>
             </td>
-            <td align="left" valign="top" style="width: auto;">
+            <td align="left" valign="top" style="width: 65%;">
                 <p align="left"> 
                   <a href="https://yaml.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/yaml/yaml-icon.svg" alt="yaml" width="40" height="40"/> </a> 
                   <a href="https://www.json.org/" target="_blank" rel="noreferrer"> <img src="public/icons/json.png" alt="json" width="40" height="40"/> </a> 
@@ -219,19 +219,27 @@
             </td>
         </tr>
         <tr>
-            <td width="50%" align="center" valign="top">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitt13&show_icons=true&theme=dark&locale=en&layout=compact" alt="Most Used Languages" style="display: block; margin: 0 auto;" />
+            <td width="50%" align="center" valign="top" style="text-align: center;">
+                <p align="center">
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitt13&show_icons=true&theme=dark&locale=en&layout=compact" alt="Most Used Languages" />
+                </p>
             </td>
-            <td width="50%" align="center" valign="top">
-                <img src="https://wakatime.com/share/@harshitt_13/2667fb96-2035-423c-8452-40f947c9070f.svg" alt="WakaTime Stats" style="display: block; margin: 0 auto;" />
+            <td width="50%" align="center" valign="top" style="text-align: center;">
+                <p align="center">
+                    <img src="https://wakatime.com/share/@harshitt_13/2667fb96-2035-423c-8452-40f947c9070f.svg" alt="WakaTime Stats" />
+                </p>
             </td>
         </tr>
         <tr>
-            <td width="50%" align="center" valign="top">
-                <img src="https://github-readme-stats.zohan.tech/api?username=harshitt13&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" style="display: block; margin: 0 auto;" />
+            <td width="50%" align="center" valign="top" style="text-align: center;">
+                <p align="center">
+                    <img src="https://github-readme-stats.zohan.tech/api?username=harshitt13&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+                </p>
             </td>
-            <td width="50%" align="center" valign="top">
-                <img src="https://streak-stats.demolab.com/?user=harshitt13&theme=dark" alt="Current Streak" style="display: block; margin: 0 auto;" />
+            <td width="50%" align="center" valign="top" style="text-align: center;">
+                <p align="center">
+                    <img src="https://streak-stats.demolab.com/?user=harshitt13&theme=dark" alt="Current Streak" />
+                </p>
             </td>
         </tr>
     </table>
