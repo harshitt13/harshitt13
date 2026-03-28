@@ -219,13 +219,13 @@
             </td>
         </tr>
         <tr>
-            <td width="50%" align="center" valign="top" style="text-align: center;">
-                <p align="center">
+            <td width="50%" align="center" valign="middle" style="text-align: center; vertical-align: middle;">
+                <p align="center" style="margin: 0;">
                     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitt13&show_icons=true&theme=dark&locale=en&layout=compact" alt="Most Used Languages" />
                 </p>
             </td>
-            <td width="50%" align="center" valign="top" style="text-align: center;">
-                <p align="center">
+            <td width="50%" align="center" valign="middle" style="text-align: center; vertical-align: middle;">
+                <p align="center" style="margin: 0;">
                     <img src="https://wakatime.com/share/@harshitt_13/2667fb96-2035-423c-8452-40f947c9070f.svg" alt="WakaTime Stats" />
                 </p>
             </td>
