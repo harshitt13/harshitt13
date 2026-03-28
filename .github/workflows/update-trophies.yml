@@ -1,0 +1,33 @@
+name: Update Game Trophies
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs automatically once a day at midnight
+  workflow_dispatch: # Allows you to trigger it manually
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # This allows the bot to save the image to your repo
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # THIS IS YOUR CUSTOM ACTION
+      - name: Generate Game Trophies
+        uses: harshitt13/github-profile-trophy-games-edition@v1.0.0
+        with:
+          username: "harshitt13"
+          api_url: "https://github-profile-trophy-games-edition.vercel.app" # Your Vercel app
+          output_path: "trophy.svg"
+          token: ${{ secrets.GITHUB_TOKEN }}
+          theme: "lol"
+
+      # THIS SAVES THE SVG TO YOUR REPOSITORY
+      - name: Commit & Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update game trophies"
+          file_pattern: "trophy.svg"
