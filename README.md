@@ -13,7 +13,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitt13&label=Profile%20views&color=8978de&style=flat" alt="harshitt13" /> </p>
 
 <div align="center">
-    <table width="100%" style="table-layout: auto;">
+    <table width="100%" style="table-layout: fixed;">
         <tr>
             <!-- Row 1: Bio on the left side -->
             <td width="50%" align="left" valign="top">
@@ -37,9 +37,9 @@
         </tr>
         <tr>
             <!-- Spotify embed on the left side -->
-            <td width="50%" align="left" valign="top">
+            <td width="50%" align="center" valign="middle">
                 <a href="https://www.last.fm/user/harshitt13" target="_blank">
-                    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lseyt6wwfpjknaxpqvx3fnywyi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false" alt="Spotify Now Playing">
+                    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lseyt6wwfpjknaxpqvx3fnywyi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false" alt="Spotify Now Playing" style="display: block; margin: 0 auto;">
                 </a>
             </td>
             <!-- GIF on the right side -->
@@ -220,18 +220,18 @@
         </tr>
         <tr>
             <td width="50%" align="center" valign="top">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitt13&show_icons=true&theme=dark&locale=en&layout=compact" alt="Most Used Languages" />
+                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitt13&show_icons=true&theme=dark&locale=en&layout=compact" alt="Most Used Languages" style="display: block; margin: 0 auto;" />
             </td>
             <td width="50%" align="center" valign="top">
-                <img src="https://wakatime.com/share/@harshitt_13/2667fb96-2035-423c-8452-40f947c9070f.svg" alt="WakaTime Stats" />
+                <img src="https://wakatime.com/share/@harshitt_13/2667fb96-2035-423c-8452-40f947c9070f.svg" alt="WakaTime Stats" style="display: block; margin: 0 auto;" />
             </td>
         </tr>
         <tr>
             <td width="50%" align="center" valign="top">
-                <img src="https://github-readme-stats.zohan.tech/api?username=harshitt13&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+                <img src="https://github-readme-stats.zohan.tech/api?username=harshitt13&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" style="display: block; margin: 0 auto;" />
             </td>
             <td width="50%" align="center" valign="top">
-                <img src="https://streak-stats.demolab.com/?user=harshitt13&theme=dark" alt="Current Streak" />
+                <img src="https://streak-stats.demolab.com/?user=harshitt13&theme=dark" alt="Current Streak" style="display: block; margin: 0 auto;" />
             </td>
         </tr>
     </table>
