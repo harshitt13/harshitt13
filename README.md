@@ -221,7 +221,7 @@
         <tr>
             <td width="50%" align="center" valign="middle" style="text-align: center; vertical-align: middle;">
                 <p align="center" style="margin: 0;">
-                    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitt13&show_icons=true&theme=dark&locale=en&layout=donut" alt="Most Used Languages" />
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitt13&show_icons=true&theme=dark&locale=en&layout=compact" alt="Most Used Languages" />
                 </p>
             </td>
             <td width="50%" align="center" valign="middle" style="text-align: center; vertical-align: middle;">
