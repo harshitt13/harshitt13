@@ -29,9 +29,6 @@
             </td>
             <!-- Row 1: Badges on the right side -->
             <td width="50%" align="center" valign="middle">
-                <a href="https://cloud.layer5.io/user/5cadac16-5268-4ad4-8cac-11491a6b284d?tab=badges&badge=certified-meshery-contributor" alt="Certified Meshery Contributor">
-                    <img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png" alt="Certified Meshery Contributor" />
-                </a>
                 <!-- <img src="public/badge/unnamed.png" alt="Badge" width="175px" /> -->
             </td>
         </tr>
