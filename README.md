@@ -5,7 +5,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="./trophy.svg" alt="Harshit's GitHub Game Trophies" />
+  <img src="https://raw.githubusercontent.com/harshitt13/github-profile-trophy-games-edition/master/trophy.svg" alt="Harshit's GitHub Game Trophies" />
 </p>
 
 </div>
