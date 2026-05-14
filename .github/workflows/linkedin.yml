@@ -1,0 +1,71 @@
+name: Update LinkedIn Post
+
+on:
+  schedule:
+    # Run every 6 hours
+    - cron: "0 */6 * * *"
+  # Allow manual trigger
+  workflow_dispatch:
+    inputs:
+      username:
+        description: "LinkedIn username (optional, overrides env variable)"
+        required: false
+        type: string
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Install Playwright browsers
+        run: npx playwright install --with-deps chromium
+
+      - name: Run LinkedIn update script
+        env:
+          LINKEDIN_USERNAME: ${{ inputs.username || 'harshitt13' }}
+        run: node scripts/linkedin.js
+
+      - name: Check for changes
+        id: verify
+        run: |
+          if git diff --quiet README.md; then
+            echo "No changes detected"
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "Changes detected"
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push changes
+        if: steps.verify.outputs.changed == 'true'
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          git add README.md
+          git commit -m "ci: update latest LinkedIn post [automated]" \
+            -m "Updated at $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+          git push
+
+      - name: Log status
+        run: |
+          if [ "${{ steps.verify.outputs.changed }}" = "true" ]; then
+            echo "✅ README updated with latest LinkedIn post"
+          else
+            echo "ℹ️  No new LinkedIn post to update"
+          fi

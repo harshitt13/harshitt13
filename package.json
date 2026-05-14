@@ -1,0 +1,20 @@
+{
+  "name": "linkedin-readme-updater",
+  "version": "1.0.0",
+  "description": "Automatically update README with latest LinkedIn post using Playwright",
+  "main": "scripts/linkedin.js",
+  "scripts": {
+    "update:linkedin": "node scripts/linkedin.js"
+  },
+  "keywords": [
+    "linkedin",
+    "github-actions",
+    "playwright",
+    "readme"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^1.40.0"
+  }
+}

@@ -29,7 +29,10 @@
             </td>
             <!-- Row 1: Badges on the right side -->
             <td width="50%" align="center" valign="middle">
-                <!-- <img src="public/badge/unnamed.png" alt="Badge" width="175px" /> -->
+                <h3 align="center">Latest LinkedIn Post</h3>
+                <!--START_SECTION:linkedin-->
+                <p align="center">LinkedIn post updates will appear here.</p>
+                <!--END_SECTION:linkedin-->
             </td>
         </tr>
         <tr>
