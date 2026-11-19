@@ -1,4 +1,4 @@
-﻿# Hi, I'm Harshit Kushwaha
+# Hi, I'm Harshit Kushwaha
 
 **Software engineer focused on backend systems, observability, and open source.**
 
@@ -38,13 +38,3 @@ I'm interested in software engineering opportunities and collaboration on backen
 
 Outside code, I enjoy video games, sketching, and photography.
 
-<details>
-<summary>Latest from LinkedIn</summary>
-
-<!--START_SECTION:linkedin-->
-
-[Read my posts on LinkedIn](https://linkedin.com/in/harshitt13/recent-activity/all/).
-
-<!--END_SECTION:linkedin-->
-
-</details>
