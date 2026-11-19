@@ -47,31 +47,31 @@
         <tr>
             <td width="50%" align="left" valign="top">
                 <h4>Languages</h4>
-                <p>Go &middot; Dart &middot; Python<br>TypeScript &middot; JavaScript &middot; C++</p>
+                <p>Go &middot; Dart &middot; Python &middot; TypeScript &middot; JavaScript &middot; C++</p>
             </td>
             <td width="50%" align="left" valign="top">
                 <h4>Backend &amp; observability</h4>
-                <p>OpenTelemetry &middot; FastAPI<br>Distributed tracing &middot; Metrics</p>
+                <p>OpenTelemetry &middot; FastAPI &middot; Distributed tracing &middot; Metrics</p>
             </td>
         </tr>
         <tr>
             <td width="50%" align="left" valign="top">
                 <h4>Web &amp; databases</h4>
-                <p>React &middot; Next.js<br>PostgreSQL &middot; MongoDB</p>
+                <p>React &middot; Next.js &middot; PostgreSQL &middot; MongoDB</p>
             </td>
             <td width="50%" align="left" valign="top">
                 <h4>Hardware &amp; prototyping</h4>
-                <p>Arduino &middot; ESP32 &middot; KiCad<br>Fritzing &middot; Ultimaker Cura</p>
+                <p>Arduino &middot; ESP32 &middot; KiCad &middot; Fritzing &middot; Ultimaker Cura</p>
             </td>
         </tr>
         <tr>
             <td width="50%" align="left" valign="top">
                 <h4>Machine learning &amp; data</h4>
-                <p>PyTorch &middot; scikit-learn<br>NumPy &middot; pandas</p>
+                <p>PyTorch &middot; scikit-learn &middot; NumPy &middot; pandas</p>
             </td>
             <td width="50%" align="left" valign="top">
                 <h4>Developer tools</h4>
-                <p>Git &middot; Docker<br>GitHub Actions &middot; Linux / WSL</p>
+                <p>Git &middot; Docker &middot; GitHub Actions &middot; Linux / WSL</p>
             </td>
         </tr>
         <tr>

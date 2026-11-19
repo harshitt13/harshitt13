@@ -7,7 +7,7 @@ from PIL import Image, ImageDraw, ImageFont
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "public" / "GIF" / "observability-banner.gif"
 WIDTH, HEIGHT, FRAMES = 1200, 340, 60
-BG, PANEL, EDGE = "#0b111b", "#101c2a", "#263a4e"
+PANEL, EDGE = "#101c2a", "#263a4e"
 FG, MUTED, CYAN, AMBER = "#edf5fc", "#a8bdd0", "#77d5ed", "#ffbd7a"
 
 
@@ -25,7 +25,7 @@ def font(size, bold=False, mono=False):
 
 
 def build_frame(index):
-    image = Image.new("RGB", (WIDTH, HEIGHT), BG)
+    image = Image.new("RGBA", (WIDTH, HEIGHT), (0, 0, 0, 0))
     draw = ImageDraw.Draw(image)
     for x in range(520, WIDTH, 32):
         for y in range(28, HEIGHT, 32):
@@ -66,9 +66,20 @@ def build_frame(index):
 def main():
     frames = [build_frame(index) for index in range(FRAMES)]
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
-    palette = frames[FRAMES // 2].quantize(colors=96)
-    frames = [frame.quantize(palette=palette, dither=Image.Dither.NONE) for frame in frames]
-    frames[0].save(OUTPUT, save_all=True, append_images=frames[1:], duration=80, loop=0, optimize=True, disposal=1)
+    palette = frames[FRAMES // 2].convert("RGB").quantize(colors=96)
+    transparent = palette.getpixel((0, 0))
+    indexed_frames = []
+    for frame in frames:
+        indexed = frame.convert("RGB").quantize(palette=palette, dither=Image.Dither.NONE)
+        # GIF supports binary transparency. Keep the palette index stable across frames.
+        mask = frame.getchannel("A").point(lambda alpha: 255 if alpha < 128 else 0)
+        indexed.paste(transparent, mask=mask)
+        indexed_frames.append(indexed)
+    indexed_frames[0].save(
+        OUTPUT, save_all=True, append_images=indexed_frames[1:], duration=80,
+        loop=0, transparency=transparent, background=transparent,
+        optimize=False, disposal=2,
+    )
     print(f"Created {OUTPUT.relative_to(ROOT)} ({OUTPUT.stat().st_size:,} bytes)")
 
 
