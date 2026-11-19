@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="public/GIF/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif">
+  <img src="public/GIF/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" alt="Animated profile banner" width="100%">
 </div>
-<br><br>
+<br>
 <div align="center">
 
 <p align="center">
@@ -17,29 +17,28 @@
         <tr>
             <!-- Row 1: Bio on the left side -->
             <td width="50%" align="left" valign="top">
-<h1 align="center">Hi 👋, I'm Harshit</h1>
-<h3 align="center">cse student surviving through an existential crisis</h3>
-  <p>
-    <ul align="left">
-      <li>an average cs student trying to stay alive.</li>
-      <li>i also do video games, sketching, and photography.</li>
-      <li>fun fact **dead ^___^**.</li>
-    </ul>
-  </p>
+<h1 align="center">Hi, I'm Harshit Kushwaha</h1>
+<h3 align="center">Software engineer &amp; open-source contributor</h3>
+<ul>
+  <li>Building backend systems and observability tools.</li>
+  <li>Contributing to OpenTelemetry in Go and Dart.</li>
+  <li>Outside code: video games, sketching, and photography.</li>
+</ul>
+<p align="center"><a href="https://harshitt13.in">Portfolio</a> &middot; <a href="https://linkedin.com/in/harshitt13">LinkedIn</a> &middot; <a href="https://github.com/search?q=is%3Apr+author%3Aharshitt13+is%3Amerged&amp;type=pullrequests">Merged contributions</a></p>
             </td>
             <!-- Row 1: Badges on the right side -->
             <td width="50%" align="center" valign="middle">
                 <h3 align="center">Latest LinkedIn Post</h3>
                 <!--START_SECTION:linkedin-->
-                <p align="center">LinkedIn post updates will appear here.</p>
+                <p align="center"><a href="https://linkedin.com/in/harshitt13/recent-activity/all/">Read my posts on LinkedIn</a></p>
                 <!--END_SECTION:linkedin-->
             </td>
         </tr>
         <tr>
             <!-- Spotify embed on the left side -->
             <td width="50%" align="center" valign="middle">
-                <a href="https://www.last.fm/user/harshitt13" target="_blank">
-                    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lseyt6wwfpjknaxpqvx3fnywyi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false" alt="Spotify Now Playing" style="display: block; margin: 0 auto;">
+                <a href="https://www.last.fm/user/harshitt13">
+                    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lseyt6wwfpjknaxpqvx3fnywyi&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false" alt="Now playing on Spotify, or my last played track while offline" width="300">
                 </a>
             </td>
             <!-- GIF on the right side -->
@@ -52,7 +51,7 @@
                 <h3 align="left">Programming Languages:</h3>
             </td>
             <td width="65%" align="left" valign="top">
-                <p align="left"><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a> <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a></p>
+                <p align="left"><a href="https://dart.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a> <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a></p>
             </td>
         </tr>
         <tr>
@@ -68,7 +67,7 @@
                 <h3 align="left">Machine Learning & Data Science:</h3>
             </td>
             <td width="65%" align="left" valign="top">
-                <p align="left"><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/></a> <a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/></a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/></a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit_learn" width="40" height="40"/></a> <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a> <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/></a> <a href="https://plotly.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" alt="plotly" width="40" height="40"/></a> <a href="https://mlflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/></a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a></p>
+                <p align="left"><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/></a> <a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/></a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/></a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit_learn" width="40" height="40"/></a> <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a> <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/></a> <a href="https://plotly.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" alt="plotly" width="40" height="40"/></a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/></a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a></p>
             </td>
         </tr>
         <tr>
@@ -116,7 +115,7 @@
                 <h3 align="left">Design & Creativity:</h3>
             </td>
             <td width="65%" align="left" valign="top">
-                <p align="left"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/></a> <a href="https://affinity.serif.com/en-us/" target="_blank" rel="noreferrer"><img src="public/icons/affinity.png" alt="affinity" width="40" height="40"/></a> <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/></a> <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/></a> <a href="https://clipclamp.com/" target="_blank" rel="noreferrer"><img src="public/icons/clipclamp.png" alt="clipclamp" width="40" height="40"/></a> <a href="https://obsproject.com/" target="_blank" rel="noreferrer"><img src="public/icons/OBS.png" alt="obs" width="40" height="40"/></a></p>
+                <p align="left"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/></a> <a href="https://affinity.serif.com/en-us/" target="_blank" rel="noreferrer"><img src="public/icons/affinity.png" alt="affinity" width="40" height="40"/></a> <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/></a> <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/></a> <a href="https://clipchamp.com/" target="_blank" rel="noreferrer"><img src="public/icons/clipclamp.png" alt="clipchamp" width="40" height="40"/></a> <a href="https://obsproject.com/" target="_blank" rel="noreferrer"><img src="public/icons/OBS.png" alt="obs" width="40" height="40"/></a></p>
             </td>
         </tr>
         <tr>
@@ -163,8 +162,8 @@
 </div>
 
 <br>
-<center>
-    <img align="center" alt="snek" src="https://github.com/harshitt13/harshitt13/blob/output/github-contribution-grid-snake-dark.svg" />
-</center>
+<div align="center">
+    <img align="center" alt="Animated GitHub contribution graph" src="https://github.com/harshitt13/harshitt13/blob/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
 
